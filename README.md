@@ -27,6 +27,6 @@ If you have any questions about it, please contact [pLink@ict.ac.cn.](mailto:pLi
 Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github.com/pFindStudio/pLink2/issues), see [github.pdf](http://pfind.ict.ac.cn/file/github.pdf) for usage.
 
 ## pLink Release Notes
-#### Version 2.2.1633 - December 26 2017 - [Download](http://pfind.ict.ac.cn/download/pLink2/pLink2.2.1633.exe)
+#### Version 2.2.1633 - December 27 2017 - [Download](http://pfind.ict.ac.cn/download/pLink2/pLink2.2.1633.exe)
 * First public beta version.
 
