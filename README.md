@@ -20,13 +20,13 @@ Nature Methods. Feb. 9, 2015. [[abstract]](https://www.nature.com/articles/nmeth
 ## Downloads
 Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/software/pLink2/pLink2%20User%20Guide.pdf) before download and use pLink 2.
 
-pLink 2 is currently free to use. **[Download pLink 2.2](http://pfind.ict.ac.cn/download/pLink2/pLink2.2.1629.exe)**.
+pLink 2 is currently free to use. **[Download pLink 2.2](http://pfind.ict.ac.cn/download/pLink2/pLink2.2.1633.exe)**.
 
 If you have any questions about it, please contact [pLink@ict.ac.cn.](mailto:pLink@ict.ac.cn)
 
 Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github.com/pFindStudio/pLink2/issues), see [github.pdf](http://pfind.ict.ac.cn/file/github.pdf) for usage.
 
 ## pLink Release Notes
-#### Version 2.2.1629 - December 26 2017 - [Download](http://pfind.ict.ac.cn/download/pLink2/pLink2.2.1629.exe)
+#### Version 2.2.1633 - December 26 2017 - [Download](http://pfind.ict.ac.cn/download/pLink2/pLink2.2.1633.exe)
 * First public beta version.
 
