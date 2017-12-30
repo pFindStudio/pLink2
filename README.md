@@ -2,7 +2,7 @@
 
 pLink® is a software dedicated for the analysis of chemically cross-linked proteins or protein complexes using mass spectrometry.
 
-pLink 2 is developed as an update of pLink 1. Compared with pLink 1, pLink 2 provides a graphical user interface, and is ~40 times faster with a new designed index structure. There are also some improvements on the precision.
+pLink 2 is developed as an upgrade of pLink 1. Compared with pLink 1, pLink 2 provides a graphical user interface, and is ~40 times faster with a newly designed index structure. There are also some improvements in the precision.
 
 ![](http://pfind.ict.ac.cn/software/pLink2/pLink2.png)
 ![](http://pfind.ict.ac.cn/software/pLink2/pLabel.png)
@@ -27,6 +27,6 @@ If you have any questions about it, please contact [pLink@ict.ac.cn.](mailto:pLi
 Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github.com/pFindStudio/pLink2/issues), see [github.pdf](http://pfind.ict.ac.cn/file/github.pdf) for usage.
 
 ## pLink Release Notes
-#### Version 2.2.1633 - December 27 2017
+#### Version 2.2.1649 - December 30 2017
 * First public beta version.
 
