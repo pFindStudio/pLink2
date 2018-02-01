@@ -28,12 +28,12 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 
 ## pLink Release Notes
 #### Version 2.3.0 - January 31 2018
-* Fixed decimal point bug on French Edition of Windows.
-* Fixed bug on some Windows 10 Pro.
+* Fixed the decimal point bug on French Edition of Windows.
+* Fixed a bug on some Windows 10 Pro.
 * Fixed bugs when configuring Enzymes and Quantifications.
 * Fixed pLabel annotation problem with MGF extracted by PD.
 * Disabled the requirement of administrative privileges.
-* Improved activation methods.
+* Improved software activation methods.
 * Improved robustness when searching against *.fasta file containing non-alphabet characters.
 * Improved GUI usability.
 * Added validity check when configuring meta data.
