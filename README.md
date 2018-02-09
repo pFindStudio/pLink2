@@ -27,6 +27,9 @@ If you have any questions about it, please contact [pLink@ict.ac.cn.](mailto:pLi
 Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github.com/pFindStudio/pLink2/issues), see [github.pdf](http://pfind.ict.ac.cn/file/github.pdf) for usage.
 
 ## pLink Release Notes
+#### Version 2.3.1 - February 9 2018
+* Fixed a bug on French Edition of Windows.
+* License for version 2.3.0 is still valid for this version.
 #### Version 2.3.0 - January 31 2018
 * Fixed the decimal point bug on French Edition of Windows.
 * Fixed a bug on some Windows 10 Pro.
