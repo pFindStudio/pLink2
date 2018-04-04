@@ -27,6 +27,15 @@ If you have any questions about it, please contact [pLink@ict.ac.cn.](mailto:pLi
 Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github.com/pFindStudio/pLink2/issues), see [github.pdf](http://pfind.ict.ac.cn/file/github.pdf) for usage.
 
 ## pLink Release Notes
+
+#### Version 2.3.2 - April 4 2018
+* Fixed a bug when the m/z of a peak is negative.
+* Fixed a bug when the result is empty.
+* Fixed a bug when computing E-value with SS_0 linker.
+* Fixed a bug when clicking HELP button in pLabel.
+* Corrected the mono mass of SS_0 linker.
+* Found solution to pLabel's annotation problem on non-Chinese Edition of Windows.
+* License since version 2.3.0 is still valid for this version.
 #### Version 2.3.1 - February 9 2018
 * Fixed a bug on French Edition of Windows.
 * License for version 2.3.0 is still valid for this version.
