@@ -28,6 +28,12 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 
 ## pLink Release Notes
 
+#### Version 2.3.3 - May 30 2018
+* Fixed a bug when labeling the -NH3/-H2O peaks in pLabel.
+* Fixed a bug when drawing the FDR curve.
+* Fixed a bug when running on Windows 10 Build 1803.
+* Improved the spectra preprocessing algorithm.
+* License since version 2.3.0 is still valid for this version.
 #### Version 2.3.2 - April 4 2018
 * Fixed a bug when the m/z of a peak is negative.
 * Fixed a bug when the result is empty.
