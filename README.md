@@ -32,6 +32,7 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 * Fixed a bug when searching super long peptides. Please note that the min length of peptides cannot be shorter than 4aa and the max length of peptides cannot be longer than 120aa.
 * Fixed a bug when the unit of fragment tolerance is Da.
 * Fixed a bug when activating software in Windows 7.
+* Merged the SS flow and the SS_0 flow in disulfide bonds identification.
 * Provided the global FDR estimation for intra-protein and inter-protein cross-links.
 * Supported lower case amino acids in fasta file.
 * Added a warning when the path of pf2 file is invalid.
