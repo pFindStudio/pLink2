@@ -28,6 +28,16 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 
 ## pLink Release Notes
 
+#### Version 2.3.4 - September 5 2018
+* Fixed a bug when searching super long peptides. Please note that the min length of peptides cannot be shorter than 4aa and the max length of peptides cannot be longer than 120aa.
+* Fixed a bug when the unit of fragment tolerance is Da.
+* Fixed a bug when activating software in Windows 7.
+* Provided the global FDR estimation for intra-protein and inter-protein cross-links.
+* Supported lower case amino acids in fasta file.
+* Added a warning when the path of pf2 file is invalid.
+* Improved GUI usability.
+* Updated expiration time to August 1 2019.
+* A new license is required since this version and will be valid until August 1 2019.
 #### Version 2.3.3 - May 30 2018
 * Fixed a bug when labeling the -NH3/-H2O peaks in pLabel.
 * Fixed a bug when drawing the FDR curve.
