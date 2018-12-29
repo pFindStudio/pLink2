@@ -28,6 +28,14 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 
 ## pLink Release Notes
 
+#### Version 2.3.5 - December 29 2018
+* [Fixed a bug when infer proteins from peptides](https://github.com/pFindStudio/pLink2/issues/39), thank you @zrpeak.
+* Fixed a bug when the database is small.
+* Fixed a bug when save a disulfide bond search task.
+* Fixed a bug in modification tab of pConfig.
+* Add a warning when combineSS.exe failed.
+* Updated expiration time to January 1 2020.
+* A new license is required since this version and will be valid until January 1 2020.
 #### Version 2.3.4 - September 5 2018
 * Fixed a bug when searching super long peptides. Please note that the min length of peptides cannot be shorter than 4aa and the max length of peptides cannot be longer than 120aa.
 * Fixed a bug when the unit of fragment tolerance is Da.
