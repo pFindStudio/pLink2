@@ -29,6 +29,7 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 ## pLink Release Notes
 
 #### Version 2.3.5 - December 29 2018
+* [Happy New Year 2019, and please see greetings from your pLink developers!](http://pfind.ict.ac.cn/news.html#pLink_Greetings_2019)
 * [Fixed a bug when infer proteins from peptides](https://github.com/pFindStudio/pLink2/issues/39), thank you @zrpeak.
 * Fixed a bug when the database is small.
 * Fixed a bug when save a disulfide bond search task.
