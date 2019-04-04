@@ -1,0 +1,43 @@
+
+# flags
+CFLAGS = -Wall -fmessage-length=0 # for compiling
+LFLAGS = # for linking
+
+OS := $(shell uname -s)
+IS_LINUX := $(shell echo $(OS)|grep -i linux)
+IS_WINDOWS := $(shell echo $(OS)|grep -i mingw)
+
+# release version or debug one, 1 for release
+RELEASE = 1
+
+# do unit test if set 1
+#UNITTEST = 0
+
+# x64 or x86, 1 for x64, 0 for x86, please set this parameter outside
+#BIT64 = 0
+
+# 1 - release, 0 - debug
+ifeq ($(RELEASE), 0)
+    CFLAGS += -g
+else
+    CFLAGS += -static -O3
+endif
+
+# 1 - 64-bit, 0 - 32-bit
+ifeq ($(BIT64), 0)
+    CFLAGS += -m32
+    LFLAGS += -m32
+else
+    CFLAGS += -m64
+    LFLAGS += -m64
+endif
+
+# third party depends
+THIRD_PARTY := third_party
+ifeq ($(BIT64), 1)
+	BUILD_LIST=$(THIRD_PARTY)/x64/libgcc_s_seh-1.dll $(THIRD_PARTY)/x64/libstdc++-6.dll $(THIRD_PARTY)/x64/libwinpthread-1.dll
+else
+	BUILD_LIST=$(THIRD_PARTY)/libgcc_s_dw2-1.dll $(THIRD_PARTY)/libstdc++-6.dll $(THIRD_PARTY)/pthreadGCE2.dll $(THIRD_PARTY)/pthreadGC2.dll
+endif
+
+RUN_LIST=$(BUILD_LIST)
