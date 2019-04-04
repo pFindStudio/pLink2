@@ -5,7 +5,7 @@ pSimulate is developed to generate simulated MS/MS spectra, including regular, m
 
 # Usage
 
-##Compile pSimulate
+#### Compile pSimulate
 
 1.	Download `MinGW` and `MSYS`
 2.	Set the paths of `MINGW_HOME` and `MSYS_HOME`
@@ -13,7 +13,7 @@ pSimulate is developed to generate simulated MS/MS spectra, including regular, m
 4.	Once the compile is done, the executable program is located in `installer/pSimulate`
 
 
-##Generate simulated spectra
+#### Generate simulated spectra
 
 1.	Goto the `installer/pSimulate` folder
 2.	Customize the parameter file in `example` folder
