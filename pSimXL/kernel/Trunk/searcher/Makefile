@@ -18,7 +18,7 @@ endif
 
 SRC = main.cpp 
 LIBS   = -lutil -lio -lindex -lflow -lsearch $(PTHREAD)
-TARGET = pSimulate$(SUFFIX)
+TARGET = pSimXL$(SUFFIX)
 
 OBJS   = $(SRC:.cpp=.o)
 

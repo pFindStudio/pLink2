@@ -70,7 +70,7 @@ goto:eof
 
 :clean_package
     cd installer
-    rd /S /Q pSimulate
+    rd /S /Q pSimXL
     cd %CUR_DIR%
 goto:eof
 
@@ -78,12 +78,12 @@ goto:eof
     cp %CONFIGS:\=/% %CUR_DIR%/bin
 	cp %THIRD_PARTYS:\=/% %CUR_DIR%/bin
 	
-    if not exist %CUR_DIR%\installer\pSimulate\bin md %CUR_DIR%\installer\pSimulate\bin
-    cp %CUR_DIR:\=/%/bin/* %CUR_DIR:\=/%/installer/pSimulate/bin
+    if not exist %CUR_DIR%\installer\pSimXL\bin md %CUR_DIR%\installer\pSimXL\bin
+    cp %CUR_DIR:\=/%/bin/* %CUR_DIR:\=/%/installer/pSimXL/bin
 	
-	if not exist %CUR_DIR%\installer\pSimulate\doc md %CUR_DIR%\installer\pSimulate\doc
-	cp %CUR_DIR%\installer\pSimulate\bin\"pSimulate User Guide.pdf" %CUR_DIR:\=/%/installer/pSimulate/doc
+	if not exist %CUR_DIR%\installer\pSimXL\doc md %CUR_DIR%\installer\pSimXL\doc
+	cp %CUR_DIR%\installer\pSimXL\bin\"pSimXL User Guide.pdf" %CUR_DIR:\=/%/installer/pSimXL/doc
 	
-	cp -rf %CUR_DIR:\=/%/example %CUR_DIR:\=/%/installer/pSimulate
+	cp -rf %CUR_DIR:\=/%/example %CUR_DIR:\=/%/installer/pSimXL
 goto:eof
 
