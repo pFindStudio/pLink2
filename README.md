@@ -14,7 +14,7 @@ Our paper [A high-speed search engine pLink 2 with systematic evaluation for pro
 ## Cite us
 [A high-speed search engine pLink 2 with systematic evaluation for proteome-scale identification of cross-linked peptides.](https://www.nature.com/articles/s41467-019-11337-z.pdf)
 Zhen-Lin Chen, Jia-Ming Meng, Yong Cao, Ji-Li Yin, Run-Qian Fang, Sheng-Bo Fan, Chao Liu, Wen-Feng Zeng, Yue-He Ding, Dan Tan, Long Wu, Wen-Jing Zhou, Hao Chi, Rui-Xiang Sun, Meng-Qiu Dong & Si-Min He.
-Nature Communications. July 30, 2019. [[abstract]](https://www.nature.com/articles/s41467-019-11337-z)
+*Nature Communications.* July 30, 2019. [[abstract]](https://www.nature.com/articles/s41467-019-11337-z)
 
 ## Downloads
 Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/software/pLink/pLink2%20User%20Guide.pdf) before download and use pLink 2.
