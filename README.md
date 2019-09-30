@@ -19,7 +19,7 @@ Nature Communications. July 30, 2019. [[abstract]](https://www.nature.com/articl
 ## Downloads
 Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/software/pLink/pLink2%20User%20Guide.pdf) before download and use pLink 2.
 
-pLink 2 is currently free to use. **[Download pLink 2.3](http://pfind.ict.ac.cn/software/pLink/index.html#Downloads)**.
+pLink 2 is currently free to use. **[Download pLink 2.3](https://github.com/pFindStudio/pLink2/raw/master/installer/pLink2.3.6.exe)**.
 
 If you have any questions about it, please contact [pLink@ict.ac.cn.](mailto:pLink@ict.ac.cn)
 
@@ -27,6 +27,14 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 
 ## pLink Release Notes
 
+#### Version 2.3.6 - September 30 2019
+* Congratulations! Our [paper of pLink 2](https://www.nature.com/articles/s41467-019-11337-z) is finally published, and please cite this paper if you used pLink 2.
+* Fixed a bug when register the software.
+* Fixed a bug when showing the symbol of β in pLabel.
+* Disabled the SUMO identification flow temporarily, as we are optimizing and testing it. This feature will be available as soon as possible.
+* Updated the lists of modifications and enzymes.
+* Updated the GUI.
+* License for version 2.3.5 is still valid for this version.
 #### Version 2.3.5 - December 29 2018
 * [Happy New Year 2019, and please see greetings from your pLink developers!](http://pfind.ict.ac.cn/news.html#pLink_Greetings_2019)
 * [Fixed a bug when infer proteins from peptides](https://github.com/pFindStudio/pLink2/issues/39), thank you @zrpeak.
