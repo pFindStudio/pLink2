@@ -19,7 +19,7 @@ Zhen-Lin Chen, Jia-Ming Meng, Yong Cao, Ji-Li Yin, Run-Qian Fang, Sheng-Bo Fan, 
 ## Downloads
 Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/software/pLink/pLink2%20User%20Guide.pdf) before download and use pLink 2.
 
-pLink 2 is currently free to use. **[Download pLink 2.3](https://github.com/pFindStudio/pLink2/raw/master/installer/pLink2.3.6.exe)**.
+pLink 2 is currently free to use. **[Download pLink 2.3](https://github.com/pFindStudio/pLink2/raw/master/installer/pLink2.3.7.exe)**.
 
 If you have any questions about it, please contact [pLink@ict.ac.cn.](mailto:pLink@ict.ac.cn)
 
@@ -27,6 +27,9 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 
 ## pLink Release Notes
 
+#### Version 2.3.7 - November 5 2019
+* Fixed a bug when open pLabel.
+* License for version 2.3.5 is still valid for this version.
 #### Version 2.3.6 - September 30 2019
 * Congratulations! Our [paper of pLink 2](https://www.nature.com/articles/s41467-019-11337-z) is finally published, and please cite this paper if you used pLink 2.
 * Fixed a bug when register the software.
