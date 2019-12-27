@@ -19,7 +19,7 @@ Zhen-Lin Chen, Jia-Ming Meng, Yong Cao, Ji-Li Yin, Run-Qian Fang, Sheng-Bo Fan, 
 ## Downloads
 Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/software/pLink/pLink2%20User%20Guide.pdf) before download and use pLink 2.
 
-pLink 2 is currently free to use. **[Download pLink 2.3](https://github.com/pFindStudio/pLink2/raw/master/installer/pLink2.3.7.exe)**.
+pLink 2 is currently free to use. **[Download pLink 2.3](https://github.com/pFindStudio/pLink2/raw/master/installer/pLink2.3.8.exe)**.
 
 If you have any questions about it, please contact [pLink@ict.ac.cn.](mailto:pLink@ict.ac.cn)
 
@@ -27,6 +27,12 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 
 ## pLink Release Notes
 
+#### Version 2.3.8 - December 27 2019
+* Happy New Year 2020!
+* Fixed a quantitation bug on French Edition of Windows.
+* Updated the configuration for cross-linker.
+* Updated pLabel for MS-cleavable cross-linked spectra annotation.
+* A new license is required for this version, but we have extended the license validity to three years. This means you can use pLink 2.3.8 until 2023 without worrying about expiration.
 #### Version 2.3.7 - November 5 2019
 * Fixed a bug when open pLabel.
 * License for version 2.3.5 is still valid for this version.
