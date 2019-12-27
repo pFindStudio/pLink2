@@ -32,6 +32,7 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 * Fixed a quantitation bug on French Edition of Windows.
 * Updated the configuration for cross-linker.
 * Updated pLabel for MS-cleavable cross-linked spectra annotation.
+* Updated the user guide, please read it before installation.
 * A new license is required for this version, but we have extended the license validity to three years. This means you can use pLink 2.3.8 until 2023 without worrying about expiration.
 #### Version 2.3.7 - November 5 2019
 * Fixed a bug when open pLabel.
