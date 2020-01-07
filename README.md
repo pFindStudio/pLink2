@@ -19,7 +19,7 @@ Zhen-Lin Chen, Jia-Ming Meng, Yong Cao, Ji-Li Yin, Run-Qian Fang, Sheng-Bo Fan, 
 ## Downloads
 Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/software/pLink/pLink2%20User%20Guide.pdf) before download and use pLink 2.
 
-pLink 2 is currently free to use. **[Download pLink 2.3](https://github.com/pFindStudio/pLink2/raw/master/installer/pLink2.3.8.exe)**.
+pLink 2 is currently free to use. **[Download pLink 2.3](https://github.com/pFindStudio/pLink2/raw/master/installer/pLink2.3.9.exe)**.
 
 If you have any questions about it, please contact [pLink@ict.ac.cn.](mailto:pLink@ict.ac.cn)
 
@@ -27,6 +27,12 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 
 ## pLink Release Notes
 
+#### Version 2.3.9 - January 7 2020
+* Fixed a pParse bug.
+* Fixed a fasta reading bug.
+* Updated the user guide, please read it before installation.
+* All users using version 2.3.8 are recommended to update to this version.
+* License for version 2.3.8 is still valid for this version.
 #### Version 2.3.8 - December 27 2019
 * Happy New Year 2020!
 * Fixed a quantitation bug on French Edition of Windows.
