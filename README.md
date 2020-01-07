@@ -28,8 +28,8 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 ## pLink Release Notes
 
 #### Version 2.3.9 - January 7 2020
-* Fixed a pParse bug.
-* Fixed a fasta reading bug.
+* Fixed a pParse bug, thank you lili.
+* Fixed a fasta reading bug, thank you [@vladtheimpalerSr](https://github.com/pFindStudio/pLink2/issues/66).
 * Updated the user guide, please read it before installation.
 * All users using version 2.3.8 are recommended to update to this version.
 * License for version 2.3.8 is still valid for this version.
