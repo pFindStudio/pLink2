@@ -33,6 +33,7 @@ Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github
 * Updated the user guide, please read it before installation.
 * All users using version 2.3.8 are recommended to update to this version.
 * License for version 2.3.8 is still valid for this version.
+* If you have problem to run pLink 2.3.9 on Windows 7, please see this [issue](https://github.com/pFindStudio/pLink2/issues/68).
 #### Version 2.3.8 - December 27 2019
 * Happy New Year 2020!
 * Fixed a quantitation bug on French Edition of Windows.
