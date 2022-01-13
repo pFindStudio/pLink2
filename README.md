@@ -19,14 +19,28 @@ Zhen-Lin Chen, Jia-Ming Meng, Yong Cao, Ji-Li Yin, Run-Qian Fang, Sheng-Bo Fan, 
 ## Downloads
 Please download and read [user_guide.pdf](http://pfind.ict.ac.cn/software/pLink/pLink2%20User%20Guide.pdf) before download and use pLink 2.
 
-pLink 2 is currently free to use. **[Download pLink 2.3](https://github.com/pFindStudio/pLink2/raw/master/installer/pLink2.3.9.exe)**.
+pLink 2 is currently free to use. **[Download pLink 2.3](https://github.com/pFindStudio/pLink2/raw/master/installer/pLink2.3.10.exe)**.
 
 If you have any questions about it, please contact [pLink@ict.ac.cn.](mailto:pLink@ict.ac.cn)
 
 Online discussion: [https://github.com/pFindStudio/pLink2/issues](https://github.com/pFindStudio/pLink2/issues), see [github.pdf](http://pfind.ict.ac.cn/file/github.pdf) for usage.
 
+## Notice
+* The expiration date of **pLink 2.3.10** is set on **Jan. 10, 2025**.
+* If RAW file read required, [MSFileReader](https://github.com/pFindStudio/pLink2/wiki/FAQ#how-to-install-msfilereader), 3.0 SP2 or a **lower** version, both 32 bit and 64 bit, need be installed first.
+    * *If you have problem to run pLink 2 on Windows 7, please see this [issue](https://github.com/pFindStudio/pLink2/issues/68). Re-install MSFileReader using "Run as administrator".*
+* [.NET framework 4.5](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net452-offline-installer) or a higher version is required.
+* [Java](https://www.java.com/en/download/) is also required for quantitation.
+
 ## pLink Release Notes
 
+#### Version 2.3.10 - January 12 2022
+* Fixed a major bug in calculating E-value that causes software to crash, thank you Olexandr Dybkov and Liu Lab who reported.
+* Changed the format of 'Precursor_Mass' and 'Peptide_Mass' in the report to decimal, thank you [@IwanParf](https://github.com/pFindStudio/pLink2/issues/70).
+* Fixed several other bugs.
+* All users are recommended to update to this version if required.
+* A new license is required for this version, but we have extended the license validity to three years. This means you can use pLink 2.3.10 until 2025.1.10 without worrying about expiration.
+* If you have problem to run pLink 2 on Windows 7, please see this [issue](https://github.com/pFindStudio/pLink2/issues/68). Re-install MSFileReader using "Run as administrator".
 #### Version 2.3.9 - January 7 2020
 * Fixed a pParse bug, thank you lili.
 * Fixed a fasta reading bug, thank you [@vladtheimpalerSr](https://github.com/pFindStudio/pLink2/issues/66).
